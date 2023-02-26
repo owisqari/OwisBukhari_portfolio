@@ -1,7 +1,7 @@
 body
 {
 	background: #111827;
-	color: #999;
+	color: #ffffff;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
@@ -171,6 +171,7 @@ h1,h2,h3,h4,h5
         padding-bottom: 140px;
         text-align: center;
 	}
+
 #home h1
     {
         /* border: 2px solid #e63946;
